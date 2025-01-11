@@ -36,7 +36,7 @@ Also, a listed repository should be deprecated if:
 [Back to Top](#contents)
 
 ## Tutorials
-[Back to Top](#contents)
+* [Generate synthetic data for fine-tuning or evaluation](https://docs.getkiln.ai/docs/synthetic-data-generation) 
 
 ### Reading Content
 [Back to Top](#contents)
@@ -46,8 +46,6 @@ Introductions and Guides to Synthetic Data
 Blogs and Newsletters
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy's intro to RNNs.
 * [Annotated Diffusion](https://huggingface.co/blog/annotated-diffusion) - Tutorial on original diffusion model paper with code
-
-Videos and Online Courses
 
 ### Videos and Online Courses
 [Back to Top](#contents)
@@ -65,7 +63,7 @@ Open Source Generative Synthetic Data Models, Libraries and Frameworks | [Back t
 * [Synthea](https://github.sre.pub/synthetichealth/synthea) - Synthetic Patient Population Simulator.
 * [ydata-synthetic](https://github.com/ydataai/ydata-synthetic) - Synthetic structured data generators.
 * [synthpop](https://cran.r-project.org/web/packages/synthpop/index.html) - A tool for producing synthetic versions of microdata.
-
+* [Kiln AI](https://getkiln.ai) - Interactive tool for synthetic data generation. Supports realtime curation, human feedback, and fine-tuning.
 
 ### Image
 * [Contrastive Unpaired Translation](https://github.com/taesungp/contrastive-unpaired-translation) - Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan.
